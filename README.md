@@ -23,6 +23,7 @@ Finally, you'll get a small vertical carousel with a quick presentation of the o
 **please note that:**
 - Team Atheris and Atheris Racing Team might get their own dedicated website if things take off someday. If that happens, I'll obviously update this README with the links to those pages.
 - The website appearance may change from what's written here between now and its final version.
+- we're not affiliated with either SUBARU or Toyota and we'll tell more about our objectives in our legal notice -the link will be there when the page will be created-.
 
 To make it simple: **it'll be my very first ambitious project I'm going to work on and I'll take all the time and lessons I need to make it perfect; just like I want it to be.**
 
